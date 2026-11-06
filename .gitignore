@@ -1,0 +1,12 @@
+# Datasets públicos originales: pesan varios GB, se citan con su enlace
+zips/
+dataset/
+Original Image/
+GroceryStoreDataset/
+
+# Material de clase y de otras materias
+*.pdf
+*.docx
+
+# Jupyter
+.ipynb_checkpoints/
