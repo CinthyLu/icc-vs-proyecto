@@ -10,3 +10,10 @@ GroceryStoreDataset/
 
 # Jupyter
 .ipynb_checkpoints/
+
+# Fase 2 en pausa: no subir por ahora
+Fase2_Preprocesamiento/
+data/preprocesada/
+
+# Fotos propias originales: se comparten por Google Drive (pesan varios GB)
+data/base/propio/
